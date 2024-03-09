@@ -1,13 +1,68 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+*{
+  padding:0;
+  margin:0;
 }
+#d
+{
+  background-color:#97BC62;
+  
+}
+#d2
+{
+  color:white;
+}
+#d1
+{
+ color:red;
+}
+#f1
+{
+ color:#E3AFBC;;
+}
+#p1
+{
+  font-weight: bold;
+  text-align: justify;
+  
+}
+#he {
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  background: -webkit-linear-gradient(blue,pink);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#para1
+{
+  font-family:Cursive;
+  
+}
+#h3p
+{
+  background-color: #ecb464;
+}
+#bg1
+{
+  background-image: url('https://i.postimg.cc/xCBvh1K3/banner-2369464-1280.jpg');
+}
+#text1
+{
+  
+  font-family: "Pacifico", cursive;
+  text-align: justify;
+}
+#card1 {
+
+  background: -webkit-linear-gradient(#009245 , #FCEE21);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+}
+#head1
+{
+  font-size: 70px;
+  font-weight: 600;
+  background-image: linear-gradient(to left, #553c9a, #b393d3);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
 }
